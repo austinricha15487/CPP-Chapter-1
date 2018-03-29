@@ -1,19 +1,14 @@
-﻿Build started 3/29/2018 9:13:22 AM.
-     1>Project "C:\Users\ar131512\Documents\Visual Studio 2013\Projects\Delgados Tacos\Delgados Tacos\Delgados Tacos.vcxproj" on node 2 (Build target(s)).
+﻿Build started 3/29/2018 1:10:17 PM.
+     1>Project "C:\Users\ar131512\Desktop\Github ++\CPP-Chapter-1\Delgados Tacos\Delgados Tacos\Delgados Tacos.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib Source.cpp
          Source.cpp
-     1>c:\users\ar131512\documents\visual studio 2013\projects\delgados tacos\delgados tacos\source.cpp(22): warning C4700: uninitialized local variable 'numOfTacos' used
-     1>c:\users\ar131512\documents\visual studio 2013\projects\delgados tacos\delgados tacos\source.cpp(23): warning C4700: uninitialized local variable 'numOfBurritos' used
-     1>c:\users\ar131512\documents\visual studio 2013\projects\delgados tacos\delgados tacos\source.cpp(24): warning C4700: uninitialized local variable 'numOfSupremes' used
-     1>c:\users\ar131512\documents\visual studio 2013\projects\delgados tacos\delgados tacos\source.cpp(25): warning C4700: uninitialized local variable 'numOfOlays' used
-     1>c:\users\ar131512\documents\visual studio 2013\projects\delgados tacos\delgados tacos\source.cpp(26): warning C4700: uninitialized local variable 'numOfDrinks' used
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ar131512\Documents\Visual Studio 2013\Projects\Delgados Tacos\Debug\Delgados Tacos.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ar131512\Documents\Visual Studio 2013\Projects\Delgados Tacos\Debug\Delgados Tacos.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Source.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ar131512\Desktop\Github ++\CPP-Chapter-1\Delgados Tacos\Debug\Delgados Tacos.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ar131512\Desktop\Github ++\CPP-Chapter-1\Delgados Tacos\Debug\Delgados Tacos.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Source.obj
          "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
-         Delgados Tacos.vcxproj -> C:\Users\ar131512\Documents\Visual Studio 2013\Projects\Delgados Tacos\Debug\Delgados Tacos.exe
-     1>Done Building Project "C:\Users\ar131512\Documents\Visual Studio 2013\Projects\Delgados Tacos\Delgados Tacos\Delgados Tacos.vcxproj" (Build target(s)).
+         Delgados Tacos.vcxproj -> C:\Users\ar131512\Desktop\Github ++\CPP-Chapter-1\Delgados Tacos\Debug\Delgados Tacos.exe
+     1>Done Building Project "C:\Users\ar131512\Desktop\Github ++\CPP-Chapter-1\Delgados Tacos\Delgados Tacos\Delgados Tacos.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.09
+Time Elapsed 00:00:01.03
